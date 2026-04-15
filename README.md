@@ -1,1 +1,1 @@
-# Mochi---Your-chatting-buddy
+# Mochi-Your-chatting-buddy
